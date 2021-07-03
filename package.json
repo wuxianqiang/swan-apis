@@ -1,0 +1,37 @@
+{
+  "author": {
+    "name": "wuxianqiang"
+  },
+  "bugs": {
+    "url": "https://github.com/wuxianqiang/swan-apis/issues"
+  },
+  "description": "百度小程序API语法提示.",
+  "devDependencies": {
+  },
+  "files": [
+    "src",
+    "types/*.d.ts"
+  ],
+  "gitHooks": {
+  },
+  "homepage": "https://github.com/wuxianqiang/swan-apis#readme",
+  "keywords": [
+    "百度",
+    "baidu",
+    "swan",
+    "小程序"
+  ],
+  "license": "MIT",
+  "main": "dist/vue.runtime.common.js",
+  "module": "dist/vue.runtime.esm.js",
+  "name": "swan-apis",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuxianqiang/swan-apis"
+  },
+  "scripts": {
+  },
+  "sideEffects": false,
+  "typings": "types/index.d.ts",
+  "version": "1.0.0"
+}
